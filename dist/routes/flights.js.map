@@ -1,0 +1,1 @@
+{"version":3,"file":"flights.js","sourceRoot":"","sources":["../../routes/flights.ts"],"names":[],"mappings":";;;AAAA,qCAAoD;AACpD,sEAGyC;AAE5B,QAAA,MAAM,GAAG,IAAA,gBAAM,GAAE,CAAC,CAAC,KAAK;AAErC,kBAAkB;AAClB,cAAM,CAAC,GAAG,CAAC,GAAG,EAAE,gCAAa,CAAC,CAAC;AAE/B,2BAA2B;AAC3B,sDAAsD;AACtD,cAAM,CAAC,GAAG,CAAC,iBAAiB,EAAE,mCAAgB,CAAC,CAAC;AAEhD,kBAAe,cAAM,CAAC"}
